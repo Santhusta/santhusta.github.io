@@ -49,7 +49,7 @@ main {
     min-height: 400px;
 }
 .btn-primary{
-	background-color: #6648b1;
+	background-color:rgb(17, 17, 146);
 	border: 1px solid #6648b1;
 }
 .btn-primary:hover {
